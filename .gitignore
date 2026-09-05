@@ -1,0 +1,7 @@
+snip.txt
+
+# Scratch files for pasting in raw notes before they're folded into a lesson
+scratch*
+*.scratch
+*.tmp
+
